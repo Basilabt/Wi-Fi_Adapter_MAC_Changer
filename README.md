@@ -16,13 +16,10 @@
 ![Preview](https://github.com/Basilabt/BAT_WirlessTool/assets/77483631/0fa1b03b-0f48-45a4-8c5e-24b298f225c3)
 
 ## Requiremets
-To use BAT Wireless Tool effectively, it is necessary to have a compatible Wi-Fi adapter. The tool relies on the ability to interact with Wi-Fi networks, which requires the presence of a functioning Wi-Fi adapter.
+To use the tool effectively, it is necessary to have a compatible Wi-Fi adapter. The tool relies on the ability to interact with Wi-Fi networks, which requires the presence of a functioning Wi-Fi adapter.
 
 ## Description
-BAT is a tool for discovering wireless networks, listening on specific wireless networks and performing deauthentication attacks by exploiting a vulnerability in IEEE 802.11 standard.
-
-
-
+A simple tool for changing the MAC address of Wi-Fi adapters.
 
 ## Installation
 
