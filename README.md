@@ -17,7 +17,8 @@
 - [Contact](#contact)
 
 ## Preview
-![Preview](https://github.com/Basilabt/BAT_WirlessTool/assets/77483631/0fa1b03b-0f48-45a4-8c5e-24b298f225c3)
+![Preview](https://github.com/Basilabt/Wi-Fi_Adapter_MAC_Changer/assets/77483631/5e8c1eab-8379-4333-97a4-60ec08026c5e)
+
 
 ## Requiremets
 To use the tool effectively, it is necessary to have a compatible Wi-Fi adapter. The tool relies on the ability to interact with Wi-Fi networks, which requires the presence of a functioning Wi-Fi adapter.
