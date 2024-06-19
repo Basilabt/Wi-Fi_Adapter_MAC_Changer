@@ -1,0 +1,1 @@
+A simple tool for changing the MAC address of Wi-Fi adapters.
