@@ -31,13 +31,13 @@ A simple tool for changing the MAC address of Wi-Fi adapters.
 
 ```
 # 1. Clone the repository
-  > git clone https://github.com/Basilabt/BAT_WirlessAttackerTool/tree/main/BAT_WirelessTool
+  > git clone https://github.com/Basilabt/Wi-Fi_Adapter_MAC_Changer/tree/main/MAC_Changer_Tool
 
 
 # 2. Navigate to the project directory
-  > cd your-repo
+  > cd MAC_Changer_Tool
 
-# 3. Run setup.sh once after installation
+# 3. Run setup.sh only once after installation
   > ./setup.sh 
 
 # 4. Run the tool
