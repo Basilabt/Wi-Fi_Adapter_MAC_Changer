@@ -1,7 +1,7 @@
 
 # Wi-Fi Adapter MAC Address Changer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Basilabt/BAT_WirlessTool/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Basilabt/Wi-Fi_Adapter_MAC_Changer/blob/main/LICENSE.txt)
 [![Developer](https://img.shields.io/badge/Developer-Basilabt-crimson)](https://github.com/Basilabt)
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Language](https://img.shields.io/badge/language-Python-blue)
