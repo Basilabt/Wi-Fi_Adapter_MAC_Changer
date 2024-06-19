@@ -38,8 +38,8 @@ A simple tool for changing the MAC address of Wi-Fi adapters.
 # 2. Navigate to the project directory
   > cd MAC_Changer_Tool
 
-# 3. Run setup.sh only once after installation
-  > ./setup.sh 
+# 3. Run setup only once after installation
+  > ./setup 
 
 # 4. Run the tool
 ./main
