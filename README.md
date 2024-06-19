@@ -42,7 +42,7 @@ A simple tool for changing the MAC address of Wi-Fi adapters.
   > ./setup 
 
 # 4. Run the tool
-./main
+  > ./main
 
 
 ```
