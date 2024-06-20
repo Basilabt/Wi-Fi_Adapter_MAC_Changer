@@ -38,10 +38,13 @@ A simple tool for changing the MAC address of Wi-Fi adapters.
 # 2. Navigate to the project directory
   > cd MAC_Changer_Tool
 
-# 3. Run setup only once after installation
+# Add execute permission
+  > chmod u+x main setup
+
+# 4. Run setup only once after installation
   > ./setup 
 
-# 4. Run the tool
+# 5. Run the tool
   > ./main
 
 
